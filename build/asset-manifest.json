@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.46682c95.chunk.css",
-    "main.js": "./static/js/main.bdf67a9b.chunk.js",
-    "main.js.map": "./static/js/main.bdf67a9b.chunk.js.map",
+    "main.js": "./static/js/main.c178b1a1.chunk.js",
+    "main.js.map": "./static/js/main.c178b1a1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1d2057d7.js",
     "runtime-main.js.map": "./static/js/runtime-main.1d2057d7.js.map",
     "static/css/2.f5e6c10c.chunk.css": "./static/css/2.f5e6c10c.chunk.css",
-    "static/js/2.461963ab.chunk.js": "./static/js/2.461963ab.chunk.js",
-    "static/js/2.461963ab.chunk.js.map": "./static/js/2.461963ab.chunk.js.map",
+    "static/js/2.5ab91e8c.chunk.js": "./static/js/2.5ab91e8c.chunk.js",
+    "static/js/2.5ab91e8c.chunk.js.map": "./static/js/2.5ab91e8c.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.f5e6c10c.chunk.css.map": "./static/css/2.f5e6c10c.chunk.css.map",
     "static/css/main.46682c95.chunk.css.map": "./static/css/main.46682c95.chunk.css.map",
-    "static/js/2.461963ab.chunk.js.LICENSE.txt": "./static/js/2.461963ab.chunk.js.LICENSE.txt",
+    "static/js/2.5ab91e8c.chunk.js.LICENSE.txt": "./static/js/2.5ab91e8c.chunk.js.LICENSE.txt",
     "static/media/Sewing_0003_People-IMG_1695.93bd4888.jpg": "./static/media/Sewing_0003_People-IMG_1695.93bd4888.jpg",
     "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/google.a4fa9b6f.svg": "./static/media/google.a4fa9b6f.svg",
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.1d2057d7.js",
     "static/css/2.f5e6c10c.chunk.css",
-    "static/js/2.461963ab.chunk.js",
+    "static/js/2.5ab91e8c.chunk.js",
     "static/css/main.46682c95.chunk.css",
-    "static/js/main.bdf67a9b.chunk.js"
+    "static/js/main.c178b1a1.chunk.js"
   ]
 }
