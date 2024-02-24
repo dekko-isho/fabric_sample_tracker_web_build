@@ -1,28 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.46682c95.chunk.css",
-    "main.js": "./static/js/main.ea3940e7.chunk.js",
-    "main.js.map": "./static/js/main.ea3940e7.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.1d2057d7.js",
-    "runtime-main.js.map": "./static/js/runtime-main.1d2057d7.js.map",
-    "static/css/2.f5e6c10c.chunk.css": "./static/css/2.f5e6c10c.chunk.css",
-    "static/js/2.7e5b7495.chunk.js": "./static/js/2.7e5b7495.chunk.js",
-    "static/js/2.7e5b7495.chunk.js.map": "./static/js/2.7e5b7495.chunk.js.map",
+    "main.css": "./static/css/main.27cb2245.css",
+    "main.js": "./static/js/main.88cd6ab4.js",
+    "static/media/Sewing_0003_People-IMG_1695.jpg": "./static/media/Sewing_0003_People-IMG_1695.93bd48888763cd21d500.jpg",
+    "static/media/logo.svg": "./static/media/logo.31df0ce844b23422622ae8466175717d.svg",
+    "static/media/google.svg": "./static/media/google.a4fa9b6f1348b95bac938aa1ffd58176.svg",
     "index.html": "./index.html",
-    "static/css/2.f5e6c10c.chunk.css.map": "./static/css/2.f5e6c10c.chunk.css.map",
-    "static/css/main.46682c95.chunk.css.map": "./static/css/main.46682c95.chunk.css.map",
-    "static/js/2.7e5b7495.chunk.js.LICENSE.txt": "./static/js/2.7e5b7495.chunk.js.LICENSE.txt",
-    "static/media/Sewing_0003_People-IMG_1695.93bd4888.jpg": "./static/media/Sewing_0003_People-IMG_1695.93bd4888.jpg",
-    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/google.a4fa9b6f.svg": "./static/media/google.a4fa9b6f.svg",
-    "static/media/logo.31df0ce8.svg": "./static/media/logo.31df0ce8.svg",
-    "static/media/logo.7c68abe1.svg": "./static/media/logo.7c68abe1.svg"
+    "main.27cb2245.css.map": "./static/css/main.27cb2245.css.map",
+    "main.88cd6ab4.js.map": "./static/js/main.88cd6ab4.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d2057d7.js",
-    "static/css/2.f5e6c10c.chunk.css",
-    "static/js/2.7e5b7495.chunk.js",
-    "static/css/main.46682c95.chunk.css",
-    "static/js/main.ea3940e7.chunk.js"
+    "static/css/main.27cb2245.css",
+    "static/js/main.88cd6ab4.js"
   ]
 }
